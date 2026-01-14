@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I’m Luke 👋
 
-<!--
-**lukemakes/lukemakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an indie developer who enjoys building simple, useful web tools.
 
-Here are some ideas to get you started:
+Current focus:
+- Keyboard & input testing tools
+- Lightweight web utilities
+- Fast, minimal UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- keyboardtest.io
+- reactiontimetest.io
+
+I like shipping fast, keeping things simple, and learning from real users.

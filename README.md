@@ -9,6 +9,5 @@ Current focus:
 
 Projects:
 - keyboardtest.io
-- reactiontimetest.io
 
 I like shipping fast, keeping things simple, and learning from real users.
